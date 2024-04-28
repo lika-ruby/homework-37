@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
             rgba(47, 48, 58, 0.4)),
-        url(../../img/mobile/hero/hero-background@1x-mobile.webp);
+        url(../img/mobile/hero/hero-background@1x-mobile.webp);
 
     @media (min-device-pixel-ratio: 2),
     (-webkit-min-device-pixel-ratio: 2),
@@ -22,13 +22,13 @@
     (min-resolution: 2dppx) {
         background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url(../../img/mobile/hero/hero-background@2x-mobile.webp);
+            url(../img/mobile/hero/hero-background@2x-mobile.webp);
     }
 
     @media screen and (min-width: 768px) {
         background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url(../../img/tablet/hero/hero-background@1x-tablet.webp);
+            url(../img/tablet/hero/hero-background@1x-tablet.webp);
 
         @media (min-device-pixel-ratio: 2),
         (-webkit-min-device-pixel-ratio: 2),
@@ -36,7 +36,7 @@
         (min-resolution: 2dppx) {
             background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                     rgba(47, 48, 58, 0.4)),
-                url(../../img/tablet/hero/hero-background@2x-tablet.webp);
+                url(../img/tablet/hero/hero-background@2x-tablet.webp);
         }
     }
 
@@ -44,7 +44,7 @@
         padding: 200px 0;
         background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                 rgba(47, 48, 58, 0.4)),
-            url(../../img/desktop/hero/hero-background@1x-desktop.webp);
+            url(../img/desktop/hero/hero-background@1x-desktop.webp);
 
         @media (min-device-pixel-ratio: 2),
         (-webkit-min-device-pixel-ratio: 2),
@@ -52,7 +52,7 @@
         (min-resolution: 2dppx) {
             background-image: linear-gradient(rgba(47, 48, 58, 0.4),
                     rgba(47, 48, 58, 0.4)),
-                url(../../img/desktop/hero/hero-background@2x-desktop.webp);
+                url(../img/desktop/hero/hero-background@2x-desktop.webp);
         }
     }
 
